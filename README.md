@@ -31,3 +31,7 @@ Cloud is not just a full stack developer, she can build the bare-metal servers t
 * Hugo
 * Express
 * HTML
+
+Cloud can be reached at the following:
+* [Bluesky](https://bsky.app/huxley.cloud/)
+* <a href="https://kolektiva.social/@hvxley" rel="me">Mastodon</a>
