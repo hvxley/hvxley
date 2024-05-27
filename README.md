@@ -13,3 +13,21 @@ Cloud is not just a full stack developer, she can build the bare-metal servers t
 * FreeBSD
 * Windows
 * Android
+
+<u>Technology Languages</u>
+* JavaScript
+* Typescript
+* Dart
+* Sass
+* CSS
+
+<u>Data Languages</u>
+* JSON
+* TOML
+* YAML
+
+<u>Web Frameworks</u>
+* Astro
+* Hugo
+* Express
+* HTML
