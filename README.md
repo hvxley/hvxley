@@ -40,5 +40,5 @@ Cloud is not just a full stack developer, she can build the bare-metal servers t
 
 Cloud can be reached at the following:
 * [Bluesky](https://bsky.app/profile/huxley.cloud/)
-* <a href="https://kolektiva.social/@hvxley" rel="me">Mastodon</a>
-* [The Huxley Cloud](https://huxley.cloud/)
+* [Mastodon](https://kolektiva.social/@hvxley)
+* [The Huxley Cloud](https://huxley.cloud/contact)
