@@ -1,6 +1,5 @@
 # 🧚 Keeping it bossy since 1985 🤖
 
-
 ## About Cloud Huxley
 Cloud learned to code her first website in 1999 using Windows Notepad text editor and Internet Explorer browser. In time, she would learn to upgrade her tools. In 2002, during her junior year of high school, Cloud built her first desktop computer. Fast forward to 2007, Cloud performed her first dual-boot with Windows and Ubuntu, introducing her to the Linux environment.
 
