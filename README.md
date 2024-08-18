@@ -39,6 +39,7 @@ Cloud is not just a full stack developer, she can build the bare-metal servers t
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Roadmap Progress
+[![roadmap.sh](https://roadmap.sh/card/wide/66bdfa2b91320df4bde69db6?variant=dark)](https://roadmap.sh)
 
 Cloud can be reached at the following:
 * [Bluesky](https://bsky.app/profile/huxley.cloud/)
